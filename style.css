@@ -1,0 +1,19 @@
+body {
+    background-image: url(/arquivos/fundo.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+    font-family: Arial;
+}
+img {
+    display: block;
+    margin: 40px auto;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+a {
+    color: lightblue;
+}
